@@ -4,6 +4,7 @@ A clean and minimal **To-Do Web Application** built using **HTML, CSS, and JavaS
 iTask helps you organize your daily tasks efficiently with a simple and intuitive interface.
 
 ---
+live working link - https://todo-app-five-beryl-16.vercel.app/
 
 ## 🚀 Features
 
@@ -37,6 +38,8 @@ Based on the application UI:
   * All tasks are stored in the browser’s **local storage**.
   * No backend required.
   * Your data persists even after refreshing the page.
+* **Drag-and-drop functionality**
+* **Delete task options**
 
 ---
 
@@ -70,13 +73,6 @@ The app consists of three main panels:
 * Right: **Completed**
 
 Each panel is designed for clarity and smooth task tracking.
-
----
-
-## 🔮 Features 
-
-* Drag-and-drop functionality
-* Delete task options
 
 ---
 
